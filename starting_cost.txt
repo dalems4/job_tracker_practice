@@ -1,0 +1,20 @@
+Faction,Units,,,,,,,,,Calculations,
+,Dreadnaught,Carrier,Cruiser,Destroyer,Fighter,Infantry,Space Dock,PDS,War Sun,Res Value,Round 1 Strength
+Arborec,,1,1,1,2,4,1,1,,12,B
+Barony of Letnev,1,1,,1,1,3,1,,,10,B
+Clan of Saar,,2,1,,2,4,1,,,11,A
+Embers of Muaat,,,,,2,4,1,,1,15,?
+Emirates of Hacan,,2,1,,2,4,1,,,11,A
+Federation of Sol,,2,,1,3,5,1,,,11,A
+Ghosts of Creuss,,1,,2,2,4,1,,,8,C
+L1Z1X Mindnet,1,1,,,3,5,1,1,,14,B
+Mentak Coalition,,1,2,,3,4,1,1,,13.5,B
+Naalu Collective,,1,1,1,3,4,1,1,,12.5,B
+Nekro Virus,1,1,1,,2,2,1,,,11,B
+Sardak N'orr,,2,1,,,5,1,1,,13.5,A
+The Winnu,,1,1,,2,2,1,1,,10,D
+Universities of Jol-Nar,1,2,,,1,2,1,1,,14.5,B
+Xxcha Kingdom,,1,2,,3,4,1,1,,13.5,A
+Yin Brotherhood,,2,,1,4,4,1,,,11,B
+Yssaril Tribes,,2,1,,2,5,1,1,,14.5,A
+,,,,,,,,,Average,12.12,
